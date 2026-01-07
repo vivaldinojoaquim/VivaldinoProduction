@@ -1,0 +1,7 @@
+{
+  "name": "Vivaldino Production",
+  "description": "App para criação automática de roteiros de histórias, parábolas e discursos a partir de um tema, uma notícia ou um texto modelo, com geração de áudio em múltiplas vozes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
